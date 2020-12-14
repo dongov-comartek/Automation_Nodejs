@@ -1,6 +1,6 @@
 exports.config = {
   // test script
-  specs: ["./src/waitForDisplayed.js"],
+  specs: ["./src/click.js"],
   capabilities: [
     {
       browserName: "chrome",
