@@ -1,6 +1,6 @@
 exports.config = {
   // test script
-  specs: ["./src/getText.js"],
+  specs: ["./src/getUrlAndTitle.js"],
   capabilities: [
     {
       browserName: "chrome",
