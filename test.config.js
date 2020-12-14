@@ -1,6 +1,6 @@
 exports.config = {
   // test script
-  specs: ["./src/click.js"],
+  specs: ["./src/getText.js"],
   capabilities: [
     {
       browserName: "chrome",

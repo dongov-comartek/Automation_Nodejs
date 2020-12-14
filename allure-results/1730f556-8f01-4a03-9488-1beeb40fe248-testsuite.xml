@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1607933056516' stop='1607933063352'>
+    <name>APT learning</name>
+    <title>APT learning</title>
+    <test-cases>
+        <test-case start='1607933056516' status='passed' stop='1607933063350'>
+            <name>Handle Dropdown menu</name>
+            <title>Handle Dropdown menu</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-87.0.4280.88'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
